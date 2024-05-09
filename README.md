@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @21anhn
-- 👀 I’m interested in learning, working with computer and someone...
+- 👀 I’m interested in learning, working with computer
 - 🌱 I’m currently learning Software Engineer.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.facebook.com/21anhn/ or ltnanh21@gmail.com
 
 <!---
