@@ -24,6 +24,11 @@ I am a third-year Software Engineering student, with a strong foundation in back
 - **Description**: A web application for managing projects, tasks, and team collaboration.
 - **Repository**: [GitHub Link](https://github.com/21anhn/project-management-system)
 
+#### FPT Music Player
+- **Technologies**: WPF C#, MaterialDesignThemes, MahApps.Metro, TagLibSharp, EF Core
+- **Description**: FPT Music Player is a group project that simulates the basic functions of a music-listening app, inspired by Spotify and Zing MP3.
+- **Repository**: [GitHub Link](https://github.com/21anhn/music-player)
+
 ### 📊 GitHub Stats
 ![Anh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=21anhn&show_icons=true&theme=dracula)
 
