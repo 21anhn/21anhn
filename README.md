@@ -30,7 +30,9 @@ I am a third-year Software Engineering student, with a strong foundation in back
 - **Repository**: [GitHub Link](https://github.com/21anhn/music-player)
 
 ### 📊 GitHub Stats
-![Anh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=21anhn&show_icons=true&theme=dracula)
+![21anhn's Stats](https://github-readme-stats.vercel.app/api?username=21anhn&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
+![21anhn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=21anhn&theme=blueberry&hide_border=true)
+![21anhn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=21anhn&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 
 ### 📬 Contact Me
 - **Email**: [anhltn21.work@gmai.com](mailto:anhltn21.work@gmai.com)
