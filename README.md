@@ -1,7 +1,8 @@
 # Lại Trần Nhật Anh
 
 ## 👋 Hello!
-I am a third-year Software Engineering student with a strong foundation in backend development and a growing passion for frontend technologies.
+I am a soon-to-graduate Software Engineering student from FPT University with around one year of backend development experience. I am currently working in the healthcare domain, focusing on .NET and applying architectures and patterns such as Mediator, CQRS, and Clean Architecture.
+My work also involves PostgreSQL, Keycloak, and the Azure ecosystem, including Azure Functions, Blob Storage, and other cloud services.
 
 ### 📊 GitHub Stats
 
