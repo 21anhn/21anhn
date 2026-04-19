@@ -1,8 +1,13 @@
 # Lại Trần Nhật Anh
 
 ## 👋 Hello!
-I am a soon-to-graduate Software Engineering student from FPT University with around one year of backend development experience. I am currently working in the healthcare domain, focusing on .NET and applying architectures and patterns such as Mediator, CQRS, and Clean Architecture.
-My work also involves PostgreSQL, Keycloak, and the Azure ecosystem, including Azure Functions, Blob Storage, and other cloud services.
+I am a Software Engineer with over one year of hands-on experience in backend development, currently working in the healthcare domain.
+
+My primary stack includes **.NET** and **Java**, where I design and build scalable systems using **Clean Architecture**, **CQRS**, and **Mediator** patterns. I have practical experience with **PostgreSQL** and **Keycloak** for identity and access management.
+
+I have strong experience with the **Azure ecosystem**, including **Azure Functions**, **Blob Storage**, **Service Bus**, and **Event Grid**, building event-driven and distributed systems. I am also working with **Azure Kubernetes Service (AKS)** in production, developing and operating **microservices architectures** with a solid understanding of scalability, messaging, and system design.
+
+Additionally, I am expanding my expertise in **Azure AI** and deepening my knowledge of **Kubernetes** and cloud-native systems.
 
 ### 📊 GitHub Stats
 
